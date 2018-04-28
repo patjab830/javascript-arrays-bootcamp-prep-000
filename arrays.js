@@ -19,3 +19,5 @@ function removeElementFromBeginningOfArray(arr) {
   var result = arr.slice(1);
   return result;
 }
+
+removeElementFromEndOfArray
