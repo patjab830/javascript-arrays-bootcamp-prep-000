@@ -20,7 +20,7 @@ function removeElementFromBeginningOfArray(arr) {
   return result;
 }
 
-function removeElementFromEndOfArray(arr) {
-  var 
-  return remove;
+function destructivelyRemoveElementFromEndOfArray(arr) {
+  arr.pop();
+  return arr;
 }
