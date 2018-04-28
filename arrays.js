@@ -39,5 +39,7 @@ function destructivelyRemoveElementFromEndOfArray(arr) {
 
 function removeElementFromEndOfArray(arr) {
   var result = arr.slice(0, arr.length - 1);
-  return 
+  return result;
 }
+
+// but we didn't use splice() -- returns removed itemsreturn
