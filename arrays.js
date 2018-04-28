@@ -42,4 +42,4 @@ function removeElementFromEndOfArray(arr) {
   return result;
 }
 
-// but we didn't use splice() -- returns removed itemsreturn
+// but we didn't use splice() -- returns removed items
