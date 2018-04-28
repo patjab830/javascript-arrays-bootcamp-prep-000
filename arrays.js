@@ -20,4 +20,7 @@ function removeElementFromBeginningOfArray(arr) {
   return result;
 }
 
-removeElementFromEndOfArray
+function removeElementFromEndOfArray(arr) {
+  var 
+  return remove;
+}
